@@ -10,7 +10,7 @@ Brute force batch name checker for League of Legends running on League LCU.
 3. Populate the `names.txt` file with names you'd like to check, example:
 ```
 FooBar10
-FriendlySummoner54
+Friendly54
 bob ross
 hide on bush
 ```
