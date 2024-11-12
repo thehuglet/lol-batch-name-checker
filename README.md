@@ -2,8 +2,6 @@
 
 Brute force batch name checker for League of Legends running on League LCU.
 
-&nbsp;
-
 # How to use
 
 
